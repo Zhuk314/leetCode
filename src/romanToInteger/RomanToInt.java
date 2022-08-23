@@ -1,6 +1,6 @@
 package romanToInteger;
 
-class Solution {
+class RomanToInt {
     public int romanToInt(String s) {
         int result = 0;
         char[] roman = s.toCharArray();
